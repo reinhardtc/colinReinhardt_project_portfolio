@@ -1,6 +1,6 @@
-## Colin Reinhardt Portfolio
+# Colin Reinhardt Portfolio
 
-# This is my current project portfolio. This project was made with HTML and CSS
+## This is my current project portfolio. This project was made with HTML and CSS
 
 
 ![image](https://user-images.githubusercontent.com/25352227/123484511-75bd7400-d5d6-11eb-8836-ccb50dc9db40.png)
