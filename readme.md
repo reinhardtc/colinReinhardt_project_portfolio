@@ -1,6 +1,10 @@
 #Colin Reinhardt Professional Portfolio
 
-## This is a simple HTML and CSS website showcasing some projects I have made.
+## This is a simple HTML and CSS website showcasing some projects I have made. Built with HTML and CSS
+
+https://reinhardtc.github.io/colinReinhardt_project_portfolio/
+
+https://github.com/reinhardtc/colinReinhardt_project_portfolio
 
 
 ![image](https://user-images.githubusercontent.com/25352227/123492773-73641580-d5e8-11eb-9ab0-35423d16140e.png)
