@@ -1,4 +1,4 @@
-#Colin Reinhardt Professional Portfolio
+### Colin Reinhardt Professional Portfolio
 
 ## This is a simple HTML and CSS website showcasing some projects I have made. Built with HTML and CSS
 
